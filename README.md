@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TimTyriell
 - 👀 I’m interested in design, tech and sport
-- 🌱 I’m currently learning kind of everything
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning webdevelopment
+- 💞️ I’m looking to collaborate on react and svelte projects
 - 📫 How to reach me ...
 
 <!---
