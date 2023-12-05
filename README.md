@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TimTyriell
+- 👋 Hi, I’m Tim
 - 👀 I’m interested in design, tech and sport
 - 🌱 I’m currently learning webdevelopment
 - 💞️ I’m looking to collaborate on react and svelte projects
