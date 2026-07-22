@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Tim
-- 👀 I’m interested in design, tech and sport
-- 🌱 I’m currently learning webdevelopment
-- 💞️ I’m looking to collaborate on react and svelte projects
-- 📫 How to reach me ...
+-  Hi, I’m Tim ✨
+-  Architect in my business time, Pen&Paper and sports fan in my free time
 
 <!---
 TimTyriell/TimTyriell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
