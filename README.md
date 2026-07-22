@@ -1,5 +1,5 @@
 -  Hi, I’m Tim ✨
--  Architect in my business time, Pen&Paper and sports fan in my free time
+-  into ai, architecture, pen&paper, volleyball and philosophie 
 
 <!---
 TimTyriell/TimTyriell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
